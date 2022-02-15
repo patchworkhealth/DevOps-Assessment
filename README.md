@@ -16,6 +16,8 @@ To build your Docker container with the web-app, you can use the following comma
 To run the container locally, you can use the following command:
 - `docker run -p 8080:8080 webapp`
 
+You should then be able to visit the container @ `localhost:8080`.
+
 ## Restrictions
 - The `main.go` file may not be modified for the assessment.
 - The `go.mod` file may not be modified for the assessment. 
