@@ -1,6 +1,6 @@
 # Patchwork DevOps-Assessment
 ## About
-This repository contains a small project designed to enable an engineer to display some fundamental skills around building & deployment. It's a self-contained system which is designed to produce a Docker container.
+This repository contains a small project designed to enable an engineer to display some fundamental skills around building & deployment. The repo provides everything needed to output a Docker container with the web app included.
 
 Instructions as to what's expected from this assessment are provided separately via a PDF. 
 
