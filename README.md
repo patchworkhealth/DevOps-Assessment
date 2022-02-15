@@ -1,4 +1,4 @@
-# Patchwork DevOps-Assessment
+# Patchwork DevOps Assessment
 ## About
 This repository contains a small project designed to enable an engineer to display some fundamental skills around building & deployment. The repo provides everything needed to output a Docker container with the web app included.
 
